@@ -31,3 +31,5 @@ make %{makeprocesses}
 %define strip_files %{i}/lib
 # Look up documentation online.
 %define drop_files %{i}/share
+
+# test
